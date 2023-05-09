@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample App</string>
+    <string name="sharedpreference">user</string>
+    <string name="enter_your_github_username">Enter your github username</string>
+</resources>
